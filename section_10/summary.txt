@@ -1,0 +1,33 @@
+Temas puntuales de la sección
+¿Qué veremos en esta sección?
+
+useReducer
+
+Reducers
+
+Teoría de un reducer
+
+Aplicación de TODOs
+
+CRUD local
+
+Esta es una sección dedicada a comprender el 
+concepto de un Reducer, el cual es sumamente 
+importante para poder entrar a Redux o bien usar el contextAPI fácilmente.
+
+
+
+Que es un Reducer?
+
+1. Es una funcion común y corriente.
+
+2. Debe de ser una función pura.
+
+3. Debe de retornar un nuevo estado.
+
+4. Usualmente solo se recibe dos argumentos
+
+    - El valor inicial (initialState) y la acción a ejecutar
+
+ 
+
